@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_rfcs_form_parameter_name" label="Parameter Name" language="en" table="x_138064_ams_rfc_form">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_rfcs_form_parameter_name</element>
+            <help/>
+            <hint/>
+            <label>Parameter Name</label>
+            <language>en</language>
+            <name>x_138064_ams_rfc_form</name>
+            <plural>Parameter Names</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-27 12:41:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>32bc626e4fabf2403746aaa01310c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Parameter Name</sys_name>
+            <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+            <sys_update_name>sys_documentation_x_138064_ams_rfc_form_u_rfcs_form_parameter_name_en</sys_update_name>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-27 12:41:56</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

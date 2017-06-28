@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>To get UI Macro Dynamically Created Field Values before submitting.</description>
+        <field>u_rfcs_aws_approval_status</field>
+        <global>false</global>
+        <messages/>
+        <name>AMS_GetUIMacroValues</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+	//Type appropriate comment here, and begin script below
+	var category = g_form.getValue('u_rfcs_category');
+	var subCategory =  g_form.getValue('u_rfcs_subcategory');
+	var item = g_form.getValue('u_rfcs_items');
+	var operation = g_form.getValue('u_rfcs_operation');
+	if(category == '' || category == "-- None --" || category == undefined){
+		g_form.clearMessages();
+		g_form.hideErrorBox("u_rfcs_category");
+		g_form.addErrorMessage("Please check all fields marked with red and ensure all required fields are filled out");
+		g_form.showErrorBox('u_rfcs_category','Category selection is required');
+		
+		return false;
+	}
+	else if(subCategory == '' || subCategory == "-- None --" || subCategory == undefined){
+		g_form.clearMessages();
+		g_form.hideErrorBox("u_rfcs_subcategory");
+		g_form.addErrorMessage("Please check all fields marked with red and ensure all required fields are filled out");
+		g_form.showErrorBox('u_rfcs_subcategory','Subcategory selection is required');
+		return false;
+	}
+	else if(item == ''  || item == "-- None --" || item == undefined){
+		g_form.clearMessages();
+		g_form.hideErrorBox("u_rfcs_items");
+		g_form.addErrorMessage("Please check all fields marked with red and ensure all required fields are filled out");
+		g_form.showErrorBox('u_rfcs_items','Item selection is required');
+		return false;
+	}
+	else if(operation == ''  || operation == "-- None --" || operation == undefined ){
+		g_form.clearMessages();
+		g_form.hideErrorBox("u_rfcs_operation");
+		g_form.addErrorMessage("Please check all fields marked with red and ensure all required fields are filled out");
+		g_form.showErrorBox('u_rfcs_operation','Operation selection is required');
+		return false;
+	} else {
+		g_form.clearMessages();
+	}
+	
+	
+	var checkEmptyFields = validateAllRequiredInputs();
+	//g_form.addInfoMessage("88888"+JSON.stringify(checkEmptyFields));
+	var valid = checkEmptyFields["isValid"];
+	//Check Required fields validation
+	if(!valid)
+		{
+		g_form.clearMessages();
+		//if (checkEmptyFields.fieldName != undefined) {
+			//g_form.addErrorMessage("Please enter the value for "+checkEmptyFields.fieldName);
+			g_form.addErrorMessage("Please check all fields marked with red and ensure all required fields are filled out and that your entries are valid.");
+			//}
+			return false;
+			
+		} else {
+			//validate all the input values
+			var allFieldsValid = validateAll();
+			//g_form.addInfoMessage("88888"+JSON.stringify(allFieldsValid));
+			if (!allFieldsValid) {
+				g_form.clearMessages();
+				g_form.addErrorMessage("The RFC submission has one or more errors. Please check all fields marked with red and ensure all required fields are filled out");
+				return false;
+			} else {
+				//Fetch ChangeTypeID
+				var changetypeid = g_form.getValue('u_rfcs_change_type_id');
+				var rfcJson =  getValues();
+				if (!rfcJson){
+					g_form.addErrorMessage("Sorry, an error occurred. Please try again later.");
+				} else {
+					rfcJson["changeTypeId"] = changetypeid;
+					//console.log('Get_UI_Macro_Values >> rfcJson = ' + JSON.stringify(rfcJson, null, 2));
+					
+					//Assing rfcJson values to the subject,description,execution parameters field
+					g_form.setValue('u_rfcs_execution_parameters',JSON.stringify(rfcJson));
+					g_form.setValue('u_rfcs_subject',rfcJson.Subject);
+					if(rfcJson.description != undefined)
+						g_form.setValue('u_rfcs_rfcdescription',rfcJson.description);
+				}				
+				
+			}
+		}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>dasthagiri</sys_created_by>
+        <sys_created_on>2017-06-28 08:01:33</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>6bd576be4fa336403746aaa01310c706</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AMS_GetUIMacroValues</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+        <sys_update_name>sys_script_client_6bd576be4fa336403746aaa01310c706</sys_update_name>
+        <sys_updated_by>dasthagiri</sys_updated_by>
+        <sys_updated_on>2017-06-28 08:01:33</sys_updated_on>
+        <table>x_138064_ams_rfcs</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view>Create_a_request_for_change</view>
+    </sys_script_client>
+</record_update>

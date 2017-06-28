@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="627f87be4fe336403746aaa01310c75c" sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_138064_ams_service_requests" version="3" view="create_a_service_request">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_category</element>
+            <position>0</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:53:17</sys_created_on>
+            <sys_id>42bfc7be4fe336403746aaa01310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_service_requests" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="127f87be4fe336403746aaa01310c756">627f87be4fe336403746aaa01310c75c</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:53:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_subject</element>
+            <position>1</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:53:17</sys_created_on>
+            <sys_id>c2bfc7be4fe336403746aaa01310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_service_requests" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="127f87be4fe336403746aaa01310c756">627f87be4fe336403746aaa01310c75c</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:53:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_cc_emails</element>
+            <position>2</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:53:17</sys_created_on>
+            <sys_id>46bfc7be4fe336403746aaa01310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_service_requests" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="127f87be4fe336403746aaa01310c756">627f87be4fe336403746aaa01310c75c</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:53:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_details</element>
+            <position>3</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:53:17</sys_created_on>
+            <sys_id>c6bfc7be4fe336403746aaa01310c7ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_service_requests" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="127f87be4fe336403746aaa01310c756">627f87be4fe336403746aaa01310c75c</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:53:17</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_138064_ams_service_requests</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:52:13</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_id>627f87be4fe336403746aaa01310c75c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_138064_ams_service_requests</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+            <sys_update_name>sys_ui_section_627f87be4fe336403746aaa01310c75c</sys_update_name>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:52:13</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Create a service request" name="create_a_service_request">127f87be4fe336403746aaa01310c756</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_rfcs_status" table="x_138064_ams_rfcs" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canceled</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:08:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0613d3360fa736401199a109b1050ecc</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:25</sys_updated_on>
+            <value>Canceled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Editing</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:08:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f13393360fa736401199a109b1050e21</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>Editing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Failure</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:09:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ad43d3360fa736401199a109b1050ece</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>Failure</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>InProgress</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:09:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>645397360fa736401199a109b1050e62</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>InProgress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>PendingApproval</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:09:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f5357360fa736401199a109b1050ed8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>PendingApproval</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Rejected</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:09:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5563d7360fa736401199a109b1050e4f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>Rejected</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Scheduled</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:09:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab63d7360fa736401199a109b1050e76</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>Scheduled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_rfcs_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Success</label>
+            <language>en</language>
+            <name>x_138064_ams_rfcs</name>
+            <sequence/>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:09:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3731b360fa736401199a109b1050e92</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+            <value>Success</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_rfcs_status</element>
+            <name>x_138064_ams_rfcs</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 10:08:32</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>67248d07db233200b7cbf34ebf9619e5</sys_id>
+            <sys_mod_count>23</sys_mod_count>
+            <sys_name>u_rfcs_status</sys_name>
+            <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+            <sys_update_name>sys_choice_x_138064_ams_rfcs_u_rfcs_status</sys_update_name>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 12:39:26</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

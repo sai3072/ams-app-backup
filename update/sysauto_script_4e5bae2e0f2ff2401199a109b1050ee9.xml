@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <conditional>false</conditional>
+        <name>AMS_GetVpcs</name>
+        <run_as display_value="">6f05a9620fabf2401199a109b1050ed3</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2017-06-27 12:35:52</run_start>
+        <run_time>1970-01-01 08:00:00</run_time>
+        <run_type>on_demand</run_type>
+        <script><![CDATA[// Call AMSResourceFetch script
+var amsGetVpcApi = new AMS_ResourceFetch();
+
+//Fetch VpcId from VPC table
+var vpcGR = new GlideRecord('x_138064_ams_vpcs');
+vpcGR.query();
+var start=new GlideDateTime();
+while(vpcGR.next())
+{
+	//Call getVpc API
+	var getVpcInsert = amsGetVpcApi.getVPCAndInsert(vpcGR.u_vpc_id.toString());
+	if(!getVpcInsert)
+	{
+		//If NO VPCs Found
+		if ('true' == gs.getProperty('debug.AMSRestCalls'))
+			gs.info("Debug >>>AMS GetVPC :"+vpcGR.u_vpc_id+" is not inserted");	
+	}
+}
+gs.eventQueue("x_138064_ams.scheduledJobEventTime",vpcGR,"Scheduled Job Name = AMS_GetVpcs","START Time = "+start+" and END Time = "+new GlideDateTime());]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>madhav</sys_created_by>
+        <sys_created_on>2017-06-27 12:37:07</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>4e5bae2e0f2ff2401199a109b1050ee9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AMS_GetVpcs</sys_name>
+        <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+        <sys_update_name>sysauto_script_4e5bae2e0f2ff2401199a109b1050ee9</sys_update_name>
+        <sys_updated_by>madhav</sys_updated_by>
+        <sys_updated_on>2017-06-27 12:37:07</sys_updated_on>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="09ff3d105f231000b12e3572f2b4775d" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>true</applies_extended>
+        <condition/>
+        <description>Validation script for email field.</description>
+        <field>u_case_cc_emails</field>
+        <global>true</global>
+        <messages/>
+        <name>AMS_ValidateCCEmails</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate)
+{
+	//If the page isn't loading
+	if (!isLoading)
+		{
+		if(newValue != '')
+			{
+			var emailList = newValue.toString().split(',');
+			for(var count = 0;count < emailList.length;count++){
+				//REgular expression to check valid email
+				var validRegExp = /^[^@]+@[^@]+.[a-z]{2,}$/i;
+					var strEmail = emailList[count];
+					// search email text for regular exp matches
+					if (strEmail.search(validRegExp) == -1)
+						{
+						g_form.addErrorMessage(strEmail+' is not a valid email');
+						//remove invalid email from field
+						emailList.splice(emailList.indexOf(strEmail),1);
+						g_form.setValue('u_case_cc_emails',emailList);
+					}
+				}
+			}
+		}
+	}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>dasthagiri</sys_created_by>
+        <sys_created_on>2017-06-27 14:05:55</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+        <sys_domain_path/>
+        <sys_id>f8df3a2a0f6ff2401199a109b1050e46</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>AMS_ValidateCCEmails</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+        <sys_update_name>sys_script_client_f8df3a2a0f6ff2401199a109b1050e46</sys_update_name>
+        <sys_updated_by>dasthagiri</sys_updated_by>
+        <sys_updated_on>2017-06-27 14:08:26</sys_updated_on>
+        <table>x_138064_ams_case</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

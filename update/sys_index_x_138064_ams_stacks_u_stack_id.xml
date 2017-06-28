@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_index">
+    <sys_index action="INSERT_OR_UPDATE">
+        <col_name_string>u_stack_id</col_name_string>
+        <index_col_name element="u_stack_id" name="x_138064_ams_stacks">48be616e4f2bf2403746aaa01310c739</index_col_name>
+        <logical_table_name>x_138064_ams_stacks</logical_table_name>
+        <sys_class_name>sys_index</sys_class_name>
+        <sys_created_by>dasthagiri</sys_created_by>
+        <sys_created_on>2017-06-27 11:40:08</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>ad9edaa60f2ff2401199a109b1050e37</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_138064_ams_stacks</sys_name>
+        <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+        <sys_update_name>sys_index_x_138064_ams_stacks_u_stack_id</sys_update_name>
+        <sys_updated_by>dasthagiri</sys_updated_by>
+        <sys_updated_on>2017-06-27 11:40:08</sys_updated_on>
+        <table display_value="Stacks" name="x_138064_ams_stacks">0c9eed2e4f2bf2403746aaa01310c7d5</table>
+        <unique_index>false</unique_index>
+    </sys_index>
+</record_update>

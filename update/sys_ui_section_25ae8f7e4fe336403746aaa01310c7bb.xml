@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="25ae8f7e4fe336403746aaa01310c7bb" sys_domain="09ff3d105f231000b12e3572f2b4775d" table="x_138064_ams_incidents" version="3" view="report_an_incident">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_incidents_priority</element>
+            <position>0</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:50:39</sys_created_on>
+            <sys_id>ef1f4b7e4fe336403746aaa01310c7cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="2dae4b7e4fe336403746aaa01310c7fd">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:50:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_category</element>
+            <position>1</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:50:39</sys_created_on>
+            <sys_id>631f4b7e4fe336403746aaa01310c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="2dae4b7e4fe336403746aaa01310c7fd">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:50:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_subject</element>
+            <position>2</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:50:39</sys_created_on>
+            <sys_id>e31f4b7e4fe336403746aaa01310c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="2dae4b7e4fe336403746aaa01310c7fd">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:50:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_cc_emails</element>
+            <position>3</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:50:39</sys_created_on>
+            <sys_id>671f4b7e4fe336403746aaa01310c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="2dae4b7e4fe336403746aaa01310c7fd">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:50:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_case_details</element>
+            <position>4</position>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:50:39</sys_created_on>
+            <sys_id>e71f4b7e4fe336403746aaa01310c7cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="2dae4b7e4fe336403746aaa01310c7fd">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:50:39</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_138064_ams_incidents</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>saikrishna</sys_created_by>
+            <sys_created_on>2017-06-28 09:48:37</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
+            <sys_domain_path/>
+            <sys_id>25ae8f7e4fe336403746aaa01310c7bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_138064_ams_incidents</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+            <sys_update_name>sys_ui_section_25ae8f7e4fe336403746aaa01310c7bb</sys_update_name>
+            <sys_updated_by>saikrishna</sys_updated_by>
+            <sys_updated_on>2017-06-28 09:48:37</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Report an incident" name="report_an_incident">2dae4b7e4fe336403746aaa01310c7fd</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

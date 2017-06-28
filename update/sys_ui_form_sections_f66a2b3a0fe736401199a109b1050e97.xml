@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="f66a2b3a0fe736401199a109b1050e97" sys_domain="global" table="x_138064_ams_rfcs" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 11:49:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b66a2b3a0fe736401199a109b1050e9a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_138064_ams_rfcs" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">f66a2b3a0fe736401199a109b1050e97</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-06-28 11:49:56</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_138064_ams_rfcs</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>sahitya</sys_created_by>
+            <sys_created_on>2017-06-28 11:49:56</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f66a2b3a0fe736401199a109b1050e97</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_138064_ams_rfcs</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+            <sys_update_name>sys_ui_form_sections_f66a2b3a0fe736401199a109b1050e97</sys_update_name>
+            <sys_updated_by>sahitya</sys_updated_by>
+            <sys_updated_on>2017-06-28 11:49:56</sys_updated_on>
+            <sys_user/>
+            <view display_value="Create a request for change" name="create_a_request_for_change">6b305fbe4fe336403746aaa01310c735</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
