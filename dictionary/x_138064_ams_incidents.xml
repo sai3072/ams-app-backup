@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element attributes="no_attachment=true,live_feed=false" extends="x_138064_ams_case" label="Incidents" max_length="40" name="x_138064_ams_incidents" type="collection">
-        <element choice="1" label="Priority" max_length="32" name="u_incidents_priority" reference="x_138064_ams_incident_priority" type="reference">
-            <choice/>
+        <element choice="1" label="Priority" max_length="40" name="u_incidents_priority" type="choice">
+            <choice>
+                <element label="normal" sequence="1" value="normal"/>
+                <element label="urgent" sequence="2" value="urgent"/>
+                <element label="critical" sequence="3" value="critical"/>
+            </choice>
         </element>
         <element default="technical" label="Incident Type" max_length="40" name="u_incidents_type" read_only="true" type="string"/>
     </element>

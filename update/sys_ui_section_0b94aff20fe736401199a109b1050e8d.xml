@@ -124,6 +124,20 @@
             <sys_user/>
             <type/>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_incidents_priority</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-06-29 10:04:38</sys_created_on>
+            <sys_id>9eeb98d30f2b32005425059ce1050ea6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="global" view="Default view">0b94aff20fe736401199a109b1050e8d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 10:04:38</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
             <header>false</header>
@@ -136,7 +150,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>0b94aff20fe736401199a109b1050e8d</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_138064_ams_incidents</sys_name>
             <sys_overrides/>
             <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -144,8 +158,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
             <sys_update_name>sys_ui_section_0b94aff20fe736401199a109b1050e8d</sys_update_name>
-            <sys_updated_by>sahitya</sys_updated_by>
-            <sys_updated_on>2017-06-28 11:24:33</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 10:04:38</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>

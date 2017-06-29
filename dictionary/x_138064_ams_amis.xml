@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="cmdb" label="AMIs" max_length="40" name="x_138064_ams_amis" type="collection">
-        <element label="Created" max_length="40" name="u_ami_created" type="glide_date_time"/>
-        <element label="Description" max_length="1000" name="u_ami_description" type="string"/>
-        <element display="true" label="AMI ID" max_length="40" name="u_ami_id" type="string"/>
-        <element label="AMI Name" max_length="40" name="u_ami_name" type="string"/>
-        <element label="VPC ID" max_length="32" name="u_vpc_id" reference="x_138064_ams_vpcs" type="reference"/>
+        <element label="Created" max_length="40" name="u_ami_created" read_only="true" type="glide_date_time"/>
+        <element label="Description" max_length="1000" name="u_ami_description" read_only="true" type="string"/>
+        <element display="true" label="AMI ID" max_length="40" name="u_ami_id" read_only="true" type="string"/>
+        <element label="AMI Name" max_length="40" name="u_ami_name" read_only="true" type="string"/>
+        <element label="VPC ID" max_length="32" name="u_vpc_id" read_only="true" reference="x_138064_ams_vpcs" type="reference"/>
         <index name="index">
             <element name="u_vpc_id"/>
         </index>

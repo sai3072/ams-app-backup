@@ -6,7 +6,9 @@
         <assessment/>
         <content_page/>
         <device_type/>
-        <filter/>
+        <filter table="x_138064_ams_stacks">u_stack_status!=DeleteCompleted^EQ<item endquery="false" field="u_stack_status" goto="false" newquery="false" operator="!=" or="false" value="DeleteCompleted"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
         <hint/>
         <homepage/>
         <image/>
@@ -25,11 +27,11 @@
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-28 05:46:52</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
+        <sys_customer_update>true</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>de37527e4f6336403746aaa01310c738</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Stacks</sys_name>
         <sys_overrides/>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -37,8 +39,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_app_module_de37527e4f6336403746aaa01310c738</sys_update_name>
-        <sys_updated_by>madhav</sys_updated_by>
-        <sys_updated_on>2017-06-28 12:30:30</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-29 04:26:18</sys_updated_on>
         <timeline_page/>
         <title>Stacks</title>
         <uncancelable>false</uncancelable>

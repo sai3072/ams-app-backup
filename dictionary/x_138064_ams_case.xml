@@ -3,23 +3,14 @@
     <element attributes="live_feed=true" extends="task" label="Case" max_length="40" name="x_138064_ams_case" type="collection">
         <element choice="1" label="Category" max_length="40" name="u_case_category" type="string">
             <choice>
-                <element label="Service Access" value="service-access"/>
-                <element label="Service Access" value="service-access"/>
-                <element label="access-issues" sequence="0" value="access-issues"/>
                 <element label="apis" sequence="0" value="apis"/>
-                <element label="availability" sequence="0" value="availability"/>
                 <element label="change-notification-other" sequence="0" value="change-notification-other"/>
                 <element label="cookbook-guidance" sequence="0" value="cookbook-guidance"/>
                 <element label="deployment-issue" sequence="0" value="deployment-issue"/>
-                <element label="feature-request" sequence="0" value="feature-request"/>
-                <element label="general-guidance" sequence="0" value="general-guidance"/>
                 <element label="landscape-update-other" sequence="0" value="landscape-update-other"/>
                 <element label="new-landscape-request" sequence="0" value="new-landscape-request"/>
                 <element label="operational-subscription" sequence="0" value="operational-subscription"/>
-                <element label="other" sequence="0" value="other"/>
                 <element label="patch-related" sequence="0" value="patch-related"/>
-                <element label="performance-issue" sequence="0" value="performance-issue"/>
-                <element label="security-related" sequence="0" value="security-related"/>
                 <element label="service-reporting-query" sequence="0" value="service-reporting-query"/>
                 <element label="unknown" sequence="0" value="unknown"/>
             </choice>

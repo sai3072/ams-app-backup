@@ -52,7 +52,7 @@
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-27 10:29:52</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>3d648a03dbe732009dac5c00cf961988</sys_id>
+        <sys_id>9f4fdecb0f6732005425059ce1050edb</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>CatSubcatItem</sys_name>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_dictionary_x_138064_ams_rfc_items_u_rfc_items_catsubcatitem</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-06-28 23:04:19</sys_updated_on>
+        <sys_updated_on>2017-06-29 01:01:26</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

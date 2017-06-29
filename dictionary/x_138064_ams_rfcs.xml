@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element attributes="no_attachment=true,live_feed=true" extends="task" label="RFCs" max_length="40" name="x_138064_ams_rfcs" type="collection">
+    <element attributes="no_attachment=true,live_feed=false" extends="task" label="RFCs" max_length="40" name="x_138064_ams_rfcs" type="collection">
         <element label="AWS approval status" max_length="40" name="u_rfcs_aws_approval_status" read_only="true" type="string"/>
         <element choice="1" label="Aws Create Status" max_length="40" name="u_rfcs_aws_create_status" read_only="true" type="choice">
             <choice>
                 <element label="Failed" value="failed"/>
-                <element label="Failed" value="failed"/>
-                <element label="Success" value="success"/>
                 <element label="Success" value="success"/>
             </choice>
         </element>
@@ -17,7 +15,7 @@
         <element label="Correspondence" max_length="10000" name="u_rfcs_correspondence" read_only="true" type="string"/>
         <element label="Created" max_length="40" name="u_rfcs_created" read_only="true" type="string"/>
         <element label="Customer approval status" max_length="40" name="u_rfcs_customer_approval_status" read_only="true" type="string"/>
-        <element label="Execution Output" max_length="4000" name="u_rfcs_execution_output" type="string"/>
+        <element label="Execution Output" max_length="4000" name="u_rfcs_execution_output" read_only="true" type="string"/>
         <element label="Execution Parameters" max_length="4000" name="u_rfcs_execution_parameters" read_only="true" type="string"/>
         <element label="Expected outcome" max_length="100" name="u_rfcs_expectedoutcome" type="string"/>
         <element label="ID" max_length="40" name="u_rfcs_id" type="string"/>
@@ -30,7 +28,7 @@
         </element>
         <element label="Requested Start" max_length="100" name="u_rfcs_requested_start" type="string"/>
         <element label="Request Failure Reason" max_length="200" name="u_rfcs_request_failure_reason" read_only="true" type="string"/>
-        <element label="Description" max_length="1000" name="u_rfcs_rfcdescription" type="string"/>
+        <element label="Description" max_length="1000" name="u_rfcs_rfcdescription" read_only="true" type="string"/>
         <element label="Scheduled" max_length="40" name="u_rfcs_scheduled_date" type="glide_date_time"/>
         <element choice="1" label="Status" max_length="40" name="u_rfcs_status" read_only="true" type="choice">
             <choice>

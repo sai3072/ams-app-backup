@@ -4,47 +4,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="44274587db233200b7cbf34ebf9619a9">d5770987db233200b7cbf34ebf961951</list_id>
+            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="44274587db233200b7cbf34ebf9619a9">93d350df0fe732005425059ce1050eb3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-28 18:36:25</sys_created_on>
-            <sys_id>d9770987db233200b7cbf34ebf961951</sys_id>
+            <sys_created_on>2017-06-29 09:29:29</sys_created_on>
+            <sys_id>d7d350df0fe732005425059ce1050eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-28 18:36:25</sys_updated_on>
+            <sys_updated_on>2017-06-29 09:29:29</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_rfcs_subject</element>
-            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="44274587db233200b7cbf34ebf9619a9">d5770987db233200b7cbf34ebf961951</list_id>
+            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="44274587db233200b7cbf34ebf9619a9">93d350df0fe732005425059ce1050eb3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-28 18:36:25</sys_created_on>
-            <sys_id>5d770987db233200b7cbf34ebf961951</sys_id>
+            <sys_created_on>2017-06-29 09:29:29</sys_created_on>
+            <sys_id>5bd350df0fe732005425059ce1050eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-28 18:36:25</sys_updated_on>
+            <sys_updated_on>2017-06-29 09:29:29</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_rfcs_status</element>
-            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="44274587db233200b7cbf34ebf9619a9">d5770987db233200b7cbf34ebf961951</list_id>
+            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="44274587db233200b7cbf34ebf9619a9">93d350df0fe732005425059ce1050eb3</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-28 18:36:25</sys_created_on>
-            <sys_id>dd770987db233200b7cbf34ebf961951</sys_id>
+            <sys_created_on>2017-06-29 09:29:29</sys_created_on>
+            <sys_id>dbd350df0fe732005425059ce1050eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-28 18:36:25</sys_updated_on>
+            <sys_updated_on>2017-06-29 09:29:29</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -58,11 +58,11 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-28 18:36:25</sys_created_on>
+            <sys_created_on>2017-06-29 09:29:29</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>d5770987db233200b7cbf34ebf961951</sys_id>
+            <sys_id>93d350df0fe732005425059ce1050eb3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name/>
             <sys_package/>
@@ -71,7 +71,7 @@
             <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
             <sys_update_name/>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-28 18:36:25</sys_updated_on>
+            <sys_updated_on>2017-06-29 09:29:29</sys_updated_on>
             <sys_user/>
             <view display_value="Rpt-tempa356bbfa4f6736403746aaa01310c72badmin" name="rpt-tempa356bbfa4f6736403746aaa01310c72badmin">44274587db233200b7cbf34ebf9619a9</view>
             <view_name/>

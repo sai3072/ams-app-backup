@@ -30,15 +30,15 @@
         <element>u_incidents_priority</element>
         <element_reference>false</element_reference>
         <foreign_database/>
-        <internal_type display_value="Reference">reference</internal_type>
+        <internal_type display_value="Choice">choice</internal_type>
         <mandatory>false</mandatory>
-        <max_length>32</max_length>
+        <max_length>40</max_length>
         <name>x_138064_ams_incidents</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_138064_ams_incident_priority">x_138064_ams_incident_priority</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -49,10 +49,10 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>sahitya</sys_created_by>
-        <sys_created_on>2017-06-27 10:14:22</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>e6648a03dbe732009dac5c00cf9619b8</sys_id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-06-29 10:04:38</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>d4db98d30f2b32005425059ce1050e3d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Priority</sys_name>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_dictionary_x_138064_ams_incidents_u_incidents_priority</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-06-28 23:04:10</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-06-29 10:04:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

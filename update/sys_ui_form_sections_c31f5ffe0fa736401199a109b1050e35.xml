@@ -29,20 +29,6 @@
             <sys_updated_by>sahitya</sys_updated_by>
             <sys_updated_on>2017-06-28 11:00:31</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-06-28 18:22:53</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>cb54c147db233200b7cbf34ebf961944</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_138064_ams_stacks" name="x_138064_ams_stacks" sys_domain="global" view="Default view">c31f5ffe0fa736401199a109b1050e35</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_stacks" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="Default view">54c31f360fa736401199a109b1050e4b</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-06-28 18:22:53</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_138064_ams_stacks</name>
             <roles/>
@@ -53,7 +39,7 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c31f5ffe0fa736401199a109b1050e35</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_name>x_138064_ams_stacks</sys_name>
             <sys_overrides/>
             <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -61,8 +47,8 @@
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
             <sys_update_name>sys_ui_form_sections_c31f5ffe0fa736401199a109b1050e35</sys_update_name>
-            <sys_updated_by>sahitya</sys_updated_by>
-            <sys_updated_on>2017-06-28 11:00:30</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-06-29 06:45:12</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
