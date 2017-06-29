@@ -52,7 +52,7 @@
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-06-28 05:50:55</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>204f9ecb0f6732005425059ce1050e51</sys_id>
+        <sys_id>52feac1f0f2b32005425059ce1050ec5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AWS approval status</sys_name>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_dictionary_x_138064_ams_rfcs_u_rfcs_aws_approval_status</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-06-29 01:01:29</sys_updated_on>
+        <sys_updated_on>2017-06-29 11:29:29</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

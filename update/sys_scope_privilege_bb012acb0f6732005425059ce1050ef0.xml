@@ -7,7 +7,7 @@
         <sys_class_name>sys_scope_privilege</sys_class_name>
         <sys_created_by>guest</sys_created_by>
         <sys_created_on>2017-06-29 01:07:54</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bb012acb0f6732005425059ce1050ef0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Glide API: event management</sys_name>

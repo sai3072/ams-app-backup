@@ -52,7 +52,7 @@
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-06-27 10:39:30</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>e05f120f0f6732005425059ce1050e56</sys_id>
+        <sys_id>d60f205f0f2b32005425059ce1050eb0</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Type</sys_name>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_dictionary_x_138064_ams_import_set_service_requests_u_case_type</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-06-29 01:01:14</sys_updated_on>
+        <sys_updated_on>2017-06-29 11:29:12</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
