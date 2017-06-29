@@ -44,7 +44,7 @@
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-28 07:58:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
         <sys_domain_path/>
         <sys_id>ca457e7e4fa336403746aaa01310c70a</sys_id>

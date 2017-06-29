@@ -19,7 +19,7 @@
         <sys_class_name>sys_transform_entry</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-27 11:38:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a6ed96a60f2ff2401199a109b1050e96</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_stack_tags</sys_name>

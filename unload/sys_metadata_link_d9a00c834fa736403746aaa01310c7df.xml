@@ -60,7 +60,7 @@ while(grCaseId.next())
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-28 13:27:03</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d9a00c834fa736403746aaa01310c7df</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_DescribeCommunications</sys_name>

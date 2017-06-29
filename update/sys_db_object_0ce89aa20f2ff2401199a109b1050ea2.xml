@@ -21,7 +21,7 @@
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-06-27 11:16:10</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>0ce89aa20f2ff2401199a109b1050ea2</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Changetype version</sys_name>

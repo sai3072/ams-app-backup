@@ -10,7 +10,7 @@
         <sys_class_name>sys_ui_macro</sys_class_name>
         <sys_created_by>madhav</sys_created_by>
         <sys_created_on>2017-06-27 13:23:12</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>63f576e20f6ff2401199a109b1050ee6</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_CreateDynamicFieldsForRFC</sys_name>

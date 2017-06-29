@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-06-27 11:30:42</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2f6c52660f2ff2401199a109b1050e8b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_138064_ams_import_set_change_type_version.x_138064_ams.import_set_change_type_version_user</sys_name>

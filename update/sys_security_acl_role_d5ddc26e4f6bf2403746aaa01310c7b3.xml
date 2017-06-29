@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-27 10:26:57</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>d5ddc26e4f6bf2403746aaa01310c7b3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_138064_ams_import_set_rfc_subcategories.x_138064_ams.import_set_rfc_subcategories_user</sys_name>

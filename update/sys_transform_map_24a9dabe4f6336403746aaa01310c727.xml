@@ -42,7 +42,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-28 05:57:46</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>24a9dabe4f6336403746aaa01310c727</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_RFC</sys_name>

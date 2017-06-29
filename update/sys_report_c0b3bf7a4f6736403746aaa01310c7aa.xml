@@ -84,7 +84,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-28 12:30:26</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>c0b3bf7a4f6736403746aaa01310c7aa</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>Active incidents</sys_name>

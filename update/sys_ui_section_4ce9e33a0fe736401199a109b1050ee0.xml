@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="4ce9e33a0fe736401199a109b1050ee0" sys_domain="global" table="x_138064_ams_rfcs" version="3" view="create_a_request_for_change">
+    <sys_ui_section caption="" section_id="4ce9e33a0fe736401199a109b1050ee0" sys_domain="global" table="x_138064_ams_rfcs" version="3" view="Create_a_request_for_change">
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
@@ -20,7 +20,7 @@
             <sys_id>09fa414bdb233200b7cbf34ebf9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -34,7 +34,7 @@
             <sys_id>89fa414bdb233200b7cbf34ebf9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -48,7 +48,7 @@
             <sys_id>0dfa414bdb233200b7cbf34ebf9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -62,7 +62,7 @@
             <sys_id>8dfa414bdb233200b7cbf34ebf9619ad</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -76,7 +76,7 @@
             <sys_id>01fa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -90,7 +90,7 @@
             <sys_id>81fa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -104,7 +104,7 @@
             <sys_id>05fa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -118,7 +118,7 @@
             <sys_id>85fa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -132,7 +132,7 @@
             <sys_id>09fa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -146,7 +146,7 @@
             <sys_id>89fa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -160,7 +160,7 @@
             <sys_id>0dfa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter display_value="AMS_RFCFormDynamicField">f0251ff60fa736401199a109b1050e38</sys_ui_formatter>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -174,7 +174,7 @@
             <sys_id>8dfa414bdb233200b7cbf34ebf9619ae</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -188,7 +188,7 @@
             <sys_id>01fa414bdb233200b7cbf34ebf9619af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -202,7 +202,7 @@
             <sys_id>81fa414bdb233200b7cbf34ebf9619af</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:51:42</sys_updated_on>
             <sys_user/>
@@ -216,7 +216,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>sahitya</sys_created_by>
             <sys_created_on>2017-06-28 11:47:34</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4ce9e33a0fe736401199a109b1050ee0</sys_id>
@@ -232,7 +232,7 @@
             <sys_updated_on>2017-06-28 11:47:34</sys_updated_on>
             <sys_user/>
             <title>false</title>
-            <view display_value="Create a request for change" name="create_a_request_for_change">6b305fbe4fe336403746aaa01310c735</view>
+            <view display_value="Create_a_request_for_change" name="Create_a_request_for_change">9c34c603dbe732009dac5c00cf96197a</view>
             <view_name/>
         </sys_ui_section>
     </sys_ui_section>

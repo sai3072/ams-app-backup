@@ -17,11 +17,11 @@
         <number_ref/>
         <provider_class/>
         <read_access>false</read_access>
-        <super_class display_value="Base Configuration Item" name="cmdb">1f8124a070123200a21c0b893d8b591f</super_class>
+        <super_class display_value="Base Configuration Item" name="cmdb">8f2027a3f5213200a21cc3267c0bd51e</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-27 07:49:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bcb965aa4f2bf2403746aaa01310c7da</sys_id>
         <sys_mod_count>3</sys_mod_count>
         <sys_name>VPCs</sys_name>

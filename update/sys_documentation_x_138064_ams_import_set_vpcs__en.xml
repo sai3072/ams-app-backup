@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>saikrishna</sys_created_by>
             <sys_created_on>2017-06-27 07:54:41</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>72fa61ea4f2bf2403746aaa01310c7dc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Import Set VPCs</sys_name>

@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>madhav</sys_created_by>
             <sys_created_on>2017-06-28 16:19:25</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>7d57436e0f6ff2401199a109b1050e6f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>CatSubItemOperation</sys_name>

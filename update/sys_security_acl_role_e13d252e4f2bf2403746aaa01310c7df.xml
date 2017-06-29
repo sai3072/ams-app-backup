@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-27 08:04:25</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>e13d252e4f2bf2403746aaa01310c7df</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_138064_ams_import_set_subnets.x_138064_ams.import_set_subnets_user</sys_name>

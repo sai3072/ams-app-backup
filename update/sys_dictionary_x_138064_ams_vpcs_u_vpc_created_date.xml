@@ -51,8 +51,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-27 07:53:33</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>55d9a5aa4f2bf2403746aaa01310c7fa</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>24544a03dbe732009dac5c00cf961969</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Created</sys_name>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -60,8 +60,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_dictionary_x_138064_ams_vpcs_u_vpc_created_date</sys_update_name>
-        <sys_updated_by>saikrishna</sys_updated_by>
-        <sys_updated_on>2017-06-27 07:53:33</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-06-28 23:04:32</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

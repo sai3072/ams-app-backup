@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="1e548147db233200b7cbf34ebf9619f6">6db6733e4f6736403746aaa01310c7b1</list_id>
+            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="fbe40643dbe732009dac5c00cf961932">6db6733e4f6736403746aaa01310c7b1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_rfcs_subject</element>
-            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="1e548147db233200b7cbf34ebf9619f6">6db6733e4f6736403746aaa01310c7b1</list_id>
+            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="fbe40643dbe732009dac5c00cf961932">6db6733e4f6736403746aaa01310c7b1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_rfcs_status</element>
-            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="1e548147db233200b7cbf34ebf9619f6">6db6733e4f6736403746aaa01310c7b1</list_id>
+            <list_id display_value="x_138064_ams_rfcs" element="NULL" name="x_138064_ams_rfcs" parent="NULL" relationship="NULL" sys_domain="global" view="fbe40643dbe732009dac5c00cf961932">6db6733e4f6736403746aaa01310c7b1</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -59,7 +59,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>saikrishna</sys_created_by>
             <sys_created_on>2017-06-28 12:43:38</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>6db6733e4f6736403746aaa01310c7b1</sys_id>
@@ -73,7 +73,7 @@
             <sys_updated_by>saikrishna</sys_updated_by>
             <sys_updated_on>2017-06-28 12:43:38</sys_updated_on>
             <sys_user/>
-            <view display_value="Rptd5b6733e4f6736403746aaa01310c7ae" name="RPTd5b6733e4f6736403746aaa01310c7ae">1e548147db233200b7cbf34ebf9619f6</view>
+            <view display_value="Rptd5b6733e4f6736403746aaa01310c7ae" name="RPTd5b6733e4f6736403746aaa01310c7ae">fbe40643dbe732009dac5c00cf961932</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

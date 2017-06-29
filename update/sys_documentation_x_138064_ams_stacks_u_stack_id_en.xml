@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>saikrishna</sys_created_by>
             <sys_created_on>2017-06-27 08:12:13</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>b7fee16e4f2bf2403746aaa01310c7ed</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Stack ID</sys_name>

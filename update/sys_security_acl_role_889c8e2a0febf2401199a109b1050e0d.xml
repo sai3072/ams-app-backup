@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-27 10:21:23</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>889c8e2a0febf2401199a109b1050e0d</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_138064_ams_case_severity_levels.x_138064_ams.case_severity_levels_user</sys_name>

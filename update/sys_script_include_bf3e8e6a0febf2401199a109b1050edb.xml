@@ -71,7 +71,7 @@ AMS_GetSubcategories.prototype = Object.extendsObject(global.AbstractAjaxProcess
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>madhav</sys_created_by>
         <sys_created_on>2017-06-27 10:31:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>bf3e8e6a0febf2401199a109b1050edb</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>AMS_GetSubcategories</sys_name>

@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-28 09:32:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>34ea4bfa4fe336403746aaa01310c7ef</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_rfcs_request_failure_reason</sys_name>

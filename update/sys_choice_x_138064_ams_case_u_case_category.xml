@@ -44,6 +44,25 @@
             <element>u_case_category</element>
             <hint/>
             <inactive>false</inactive>
+            <label>access-issues</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>70394ec3dbe732009dac5c00cf96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:39</sys_updated_on>
+            <value>access-issues</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>apis</label>
             <language>en</language>
             <name>x_138064_ams_case</name>
@@ -57,6 +76,25 @@
             <sys_updated_by>dasthagiri</sys_updated_by>
             <sys_updated_on>2017-06-28 11:55:29</sys_updated_on>
             <value>apis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>availability</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01398ec3dbe732009dac5c00cf9619ea</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:39</sys_updated_on>
+            <value>availability</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -120,6 +158,44 @@
             <element>u_case_category</element>
             <hint/>
             <inactive>false</inactive>
+            <label>feature-request</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3c394ec3dbe732009dac5c00cf961990</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:39</sys_updated_on>
+            <value>feature-request</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>general-guidance</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac394ec3dbe732009dac5c00cf961988</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:38</sys_updated_on>
+            <value>general-guidance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>landscape-update-other</label>
             <language>en</language>
             <name>x_138064_ams_case</name>
@@ -177,6 +253,25 @@
             <element>u_case_category</element>
             <hint/>
             <inactive>false</inactive>
+            <label>other</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30394ec3dbe732009dac5c00cf96198d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:39</sys_updated_on>
+            <value>other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>patch-related</label>
             <language>en</language>
             <name>x_138064_ams_case</name>
@@ -190,6 +285,63 @@
             <sys_updated_by>dasthagiri</sys_updated_by>
             <sys_updated_on>2017-06-28 11:55:30</sys_updated_on>
             <value>patch-related</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>performance-issue</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b0394ec3dbe732009dac5c00cf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:39</sys_updated_on>
+            <value>performance-issue</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>security-related</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fc394ec3dbe732009dac5c00cf961992</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:39</sys_updated_on>
+            <value>security-related</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_case_category</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>service-reporting-query</label>
+            <language>en</language>
+            <name>x_138064_ams_case</name>
+            <sequence>0</sequence>
+            <sys_created_by>guest</sys_created_by>
+            <sys_created_on>2017-06-28 23:23:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d539cec3dbe732009dac5c00cf961902</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:41</sys_updated_on>
+            <value>service-reporting-query</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
@@ -217,16 +369,16 @@
             <sys_created_by>dasthagiri</sys_created_by>
             <sys_created_on>2017-06-28 11:51:37</sys_created_on>
             <sys_customer_update>false</sys_customer_update>
-            <sys_id>e7248d07db233200b7cbf34ebf9619d4</sys_id>
-            <sys_mod_count>53</sys_mod_count>
+            <sys_id>d5d40243dbe732009dac5c00cf9619f5</sys_id>
+            <sys_mod_count>61</sys_mod_count>
             <sys_name>u_case_category</sys_name>
             <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
             <sys_update_name>sys_choice_x_138064_ams_case_u_case_category</sys_update_name>
-            <sys_updated_by>dasthagiri</sys_updated_by>
-            <sys_updated_on>2017-06-28 12:04:37</sys_updated_on>
+            <sys_updated_by>guest</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:23:41</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
 </record_update>

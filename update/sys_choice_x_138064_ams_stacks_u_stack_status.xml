@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_stack_status" table="x_138064_ams_stacks" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_stack_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CreateCompleted</label>
+            <language>en</language>
+            <name>x_138064_ams_stacks</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9f340a03dbe732009dac5c00cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+            <value>CreateCompleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_stack_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CreateInProgress</label>
+            <language>en</language>
+            <name>x_138064_ams_stacks</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>df340a03dbe732009dac5c00cf96199c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+            <value>CreateInProgress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_stack_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>DeleteCompleted</label>
+            <language>en</language>
+            <name>x_138064_ams_stacks</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>13340a03dbe732009dac5c00cf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+            <value>DeleteCompleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_stack_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RollbackCompleted</label>
+            <language>en</language>
+            <name>x_138064_ams_stacks</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>53340a03dbe732009dac5c00cf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+            <value>RollbackCompleted</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_stack_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>RollbackInProgress</label>
+            <language>en</language>
+            <name>x_138064_ams_stacks</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>93340a03dbe732009dac5c00cf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+            <value>RollbackInProgress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_stack_status</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>UpdateCompleted</label>
+            <language>en</language>
+            <name>x_138064_ams_stacks</name>
+            <sequence>0</sequence>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d3340a03dbe732009dac5c00cf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+            <value>UpdateCompleted</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_stack_status</element>
+            <name>x_138064_ams_stacks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>system</sys_created_by>
+            <sys_created_on>2017-06-28 23:01:58</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>17340a03dbe732009dac5c00cf96199d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_stack_status</sys_name>
+            <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
+            <sys_update_name>sys_choice_x_138064_ams_stacks_u_stack_status</sys_update_name>
+            <sys_updated_by>system</sys_updated_by>
+            <sys_updated_on>2017-06-28 23:01:58</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

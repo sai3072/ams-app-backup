@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>sahitya</sys_created_by>
             <sys_created_on>2017-06-27 09:46:44</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>2ca40ee20febf2401199a109b1050ec7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Incident Type</sys_name>

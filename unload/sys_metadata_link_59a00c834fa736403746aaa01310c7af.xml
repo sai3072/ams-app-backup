@@ -58,7 +58,7 @@ var amsListRfcCorrespondenceApi = new AMS_RfcFetch();
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-28 13:27:02</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>59a00c834fa736403746aaa01310c7af</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_ListRfcCorrespondences</sys_name>

@@ -4,7 +4,7 @@
         <sys_class_name>sys_security_acl_role</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-06-28 12:31:39</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>5b83fffe0fe736401199a109b1050e7a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>.x_138064_ams.incidents_user</sys_name>

@@ -7,7 +7,7 @@
         <sys_class_name>sys_ui_policy_action</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-28 12:09:48</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>2feeefb64f6736403746aaa01310c7c2</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_case_details</sys_name>

@@ -10,8 +10,8 @@
             <sys_id>b66a2b3a0fe736401199a109b1050e9a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_138064_ams_rfcs" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">f66a2b3a0fe736401199a109b1050e97</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="6b305fbe4fe336403746aaa01310c735">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
+            <sys_ui_form display_value="x_138064_ams_rfcs" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">f66a2b3a0fe736401199a109b1050e97</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_rfcs" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197a">4ce9e33a0fe736401199a109b1050ee0</sys_ui_section>
             <sys_updated_by>sahitya</sys_updated_by>
             <sys_updated_on>2017-06-28 11:49:56</sys_updated_on>
         </sys_ui_form_section>
@@ -21,7 +21,7 @@
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>sahitya</sys_created_by>
             <sys_created_on>2017-06-28 11:49:56</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f66a2b3a0fe736401199a109b1050e97</sys_id>
@@ -36,7 +36,7 @@
             <sys_updated_by>sahitya</sys_updated_by>
             <sys_updated_on>2017-06-28 11:49:56</sys_updated_on>
             <sys_user/>
-            <view display_value="Create a request for change" name="create_a_request_for_change">6b305fbe4fe336403746aaa01310c735</view>
+            <view display_value="Create_a_request_for_change" name="Create_a_request_for_change">9c34c603dbe732009dac5c00cf96197a</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>

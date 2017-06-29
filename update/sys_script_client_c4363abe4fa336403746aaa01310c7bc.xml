@@ -25,7 +25,7 @@ else
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-28 08:02:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c4363abe4fa336403746aaa01310c7bc</sys_id>

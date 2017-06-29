@@ -4,7 +4,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>sys_created_on</element>
-            <list_id display_value="x_138064_ams_service_requests" element="NULL" name="x_138064_ams_service_requests" parent="NULL" relationship="NULL" sys_domain="global" view="2a54c147db233200b7cbf34ebf961916">ca674587db233200b7cbf34ebf9619eb</list_id>
+            <list_id display_value="x_138064_ams_service_requests" element="NULL" name="x_138064_ams_service_requests" parent="NULL" relationship="NULL" sys_domain="global" view="33e40643dbe732009dac5c00cf961935">ca674587db233200b7cbf34ebf9619eb</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -19,7 +19,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_case_subject</element>
-            <list_id display_value="x_138064_ams_service_requests" element="NULL" name="x_138064_ams_service_requests" parent="NULL" relationship="NULL" sys_domain="global" view="2a54c147db233200b7cbf34ebf961916">ca674587db233200b7cbf34ebf9619eb</list_id>
+            <list_id display_value="x_138064_ams_service_requests" element="NULL" name="x_138064_ams_service_requests" parent="NULL" relationship="NULL" sys_domain="global" view="33e40643dbe732009dac5c00cf961935">ca674587db233200b7cbf34ebf9619eb</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -34,7 +34,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_case_status</element>
-            <list_id display_value="x_138064_ams_service_requests" element="NULL" name="x_138064_ams_service_requests" parent="NULL" relationship="NULL" sys_domain="global" view="2a54c147db233200b7cbf34ebf961916">ca674587db233200b7cbf34ebf9619eb</list_id>
+            <list_id display_value="x_138064_ams_service_requests" element="NULL" name="x_138064_ams_service_requests" parent="NULL" relationship="NULL" sys_domain="global" view="33e40643dbe732009dac5c00cf961935">ca674587db233200b7cbf34ebf9619eb</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -59,7 +59,7 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-06-28 18:36:12</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>ca674587db233200b7cbf34ebf9619eb</sys_id>
@@ -73,7 +73,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 18:36:12</sys_updated_on>
             <sys_user/>
-            <view display_value="Rpt7a67773e4f6736403746aaa01310c782" name="RPT7a67773e4f6736403746aaa01310c782">2a54c147db233200b7cbf34ebf961916</view>
+            <view display_value="Rpt7a67773e4f6736403746aaa01310c782" name="RPT7a67773e4f6736403746aaa01310c782">33e40643dbe732009dac5c00cf961935</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>

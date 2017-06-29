@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>sahitya</sys_created_by>
             <sys_created_on>2017-06-28 06:05:50</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>62ab9e720f2736401199a109b1050ed0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Items</sys_name>

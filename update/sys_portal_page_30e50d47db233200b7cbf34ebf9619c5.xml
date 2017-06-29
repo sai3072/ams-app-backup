@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<record_update node_type="sys_portal_page" unload_date="2017-06-28 22:41:53">
+<record_update node_type="sys_portal_page" unload_date="2017-06-29 00:57:25">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
-        <read_roles/>
+        <read_roles>snc_internal</read_roles>
         <roles/>
         <selectable>true</selectable>
         <sys_class_name>sys_portal_page</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-28 18:29:47</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>30e50d47db233200b7cbf34ebf9619c5</sys_id>

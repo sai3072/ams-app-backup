@@ -23,7 +23,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>sahitya</sys_created_by>
             <sys_created_on>2017-06-27 10:07:12</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>4b58946d4f1966003746aaa01310c7d6</sys_domain>
             <sys_domain_path/>
             <sys_id>1059caa60febf2401199a109b1050e17</sys_id>

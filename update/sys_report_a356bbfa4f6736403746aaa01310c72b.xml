@@ -85,7 +85,7 @@
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-28 12:42:08</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>a356bbfa4f6736403746aaa01310c72b</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Active RFCs</sys_name>

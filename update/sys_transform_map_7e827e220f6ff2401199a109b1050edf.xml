@@ -28,7 +28,7 @@
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-27 13:07:51</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>7e827e220f6ff2401199a109b1050edf</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_Case</sys_name>

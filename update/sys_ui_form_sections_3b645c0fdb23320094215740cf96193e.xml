@@ -10,8 +10,8 @@
             <sys_id>fb645c0fdb23320094215740cf96193e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_138064_ams_incidents" name="x_138064_ams_incidents" sys_domain="global" view="2dae4b7e4fe336403746aaa01310c7fd">3b645c0fdb23320094215740cf96193e</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="2dae4b7e4fe336403746aaa01310c7fd">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
+            <sys_ui_form display_value="x_138064_ams_incidents" name="x_138064_ams_incidents" sys_domain="global" view="9c34c603dbe732009dac5c00cf96197b">3b645c0fdb23320094215740cf96193e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_incidents" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="9c34c603dbe732009dac5c00cf96197b">25ae8f7e4fe336403746aaa01310c7bb</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 14:53:30</sys_updated_on>
         </sys_ui_form_section>
@@ -36,7 +36,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 14:56:20</sys_updated_on>
             <sys_user/>
-            <view display_value="Report an incident" name="report_an_incident">2dae4b7e4fe336403746aaa01310c7fd</view>
+            <view display_value="Report an incident" name="Report_an_incident">9c34c603dbe732009dac5c00cf96197b</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>

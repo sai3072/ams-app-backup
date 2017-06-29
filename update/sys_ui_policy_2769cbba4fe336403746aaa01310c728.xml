@@ -25,7 +25,7 @@
         <sys_class_name>sys_ui_policy</sys_class_name>
         <sys_created_by>dasthagiri</sys_created_by>
         <sys_created_on>2017-06-28 09:31:43</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2769cbba4fe336403746aaa01310c728</sys_id>
@@ -41,6 +41,6 @@
         <sys_updated_on>2017-06-28 11:59:26</sys_updated_on>
         <table>x_138064_ams_rfcs</table>
         <ui_type>0</ui_type>
-        <view display_value="" name="create_a_request_for_change">create_a_request_for_change</view>
+        <view display_value="Create_a_request_for_change" name="Create_a_request_for_change">create_a_request_for_change</view>
     </sys_ui_policy>
 </record_update>

@@ -23,7 +23,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>saikrishna</sys_created_by>
             <sys_created_on>2017-06-27 07:48:54</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>09ff3d105f231000b12e3572f2b4775d</sys_domain>
             <sys_domain_path/>
             <sys_id>12a965aa4f2bf2403746aaa01310c710</sys_id>

@@ -12,7 +12,7 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>sahitya</sys_created_by>
         <sys_created_on>2017-06-28 13:38:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>68138c8b0f2b36401199a109b1050e78</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_GetTimeZone</sys_name>

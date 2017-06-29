@@ -12,7 +12,7 @@
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>dasthagiri</sys_created_by>
             <sys_created_on>2017-06-27 11:07:43</sys_created_on>
-            <sys_customer_update>true</sys_customer_update>
+            <sys_customer_update>false</sys_customer_update>
             <sys_id>e81756620f2ff2401199a109b1050ed0</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Case Type</sys_name>

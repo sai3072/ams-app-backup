@@ -76,7 +76,7 @@ AMS_GetRequiredFields.prototype = Object.extendsObject(global.AbstractAjaxProces
         <sys_class_name>sys_script_include</sys_class_name>
         <sys_created_by>madhav</sys_created_by>
         <sys_created_on>2017-06-27 10:17:49</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>674b8ee60febf2401199a109b1050eee</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMS_GetRequiredFields</sys_name>
