@@ -2,6 +2,7 @@
 <record_update table="sys_ui_formatter">
     <sys_ui_formatter action="INSERT_OR_UPDATE">
         <active>true</active>
+        <angular_module/>
         <formatter>AMS_CreateDynamicFieldsForRFC.xml</formatter>
         <name>AMS_RFCFormDynamicField</name>
         <sys_class_name>sys_ui_formatter</sys_class_name>

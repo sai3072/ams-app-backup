@@ -10,8 +10,8 @@
             <sys_id>a7645c0fdb23320094215740cf961933</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
-            <sys_ui_form display_value="x_138064_ams_service_requests" name="x_138064_ams_service_requests" sys_domain="global" view="9434c603dbe732009dac5c00cf96197b">e3645c0fdb23320094215740cf961933</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_service_requests" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="9434c603dbe732009dac5c00cf96197b">627f87be4fe336403746aaa01310c75c</sys_ui_section>
+            <sys_ui_form display_value="x_138064_ams_service_requests" name="x_138064_ams_service_requests" sys_domain="global" view="3946f85fdbe7320067b1d190cf961992">e3645c0fdb23320094215740cf961933</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_138064_ams_service_requests" sys_domain="09ff3d105f231000b12e3572f2b4775d" view="3946f85fdbe7320067b1d190cf961992">627f87be4fe336403746aaa01310c75c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 14:53:29</sys_updated_on>
         </sys_ui_form_section>
@@ -36,7 +36,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-28 14:56:38</sys_updated_on>
             <sys_user/>
-            <view display_value="Create a service request" name="Create_a_service_request">9434c603dbe732009dac5c00cf96197b</view>
+            <view display_value="Create a service request" name="Create_a_service_request">3946f85fdbe7320067b1d190cf961992</view>
             <view_name/>
         </sys_ui_form>
     </sys_ui_form_sections>

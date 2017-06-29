@@ -3,6 +3,7 @@
     <sys_dictionary action="INSERT_OR_UPDATE" element="u_ami_id" table="x_138064_ams_amis">
         <active>true</active>
         <array>false</array>
+        <array_denormalized>false</array_denormalized>
         <attributes/>
         <audit>false</audit>
         <calculation><![CDATA[(function calculatedFieldValue(current) {
@@ -52,7 +53,7 @@
         <sys_created_by>saikrishna</sys_created_by>
         <sys_created_on>2017-06-27 09:44:57</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>a3feec1f0f2b32005425059ce1050e53</sys_id>
+        <sys_id>2756fc5fdbe7320067b1d190cf9619ae</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>AMI ID</sys_name>
         <sys_package display_value="AMS" source="x_138064_ams">c370f2450f633200e1c38fbce1050e70</sys_package>
@@ -61,7 +62,7 @@
         <sys_scope display_value="AMS">c370f2450f633200e1c38fbce1050e70</sys_scope>
         <sys_update_name>sys_dictionary_x_138064_ams_amis_u_ami_id</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-06-29 11:28:45</sys_updated_on>
+        <sys_updated_on>2017-06-29 12:01:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

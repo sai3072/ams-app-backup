@@ -118,7 +118,7 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-06-29 10:10:39</sys_updated_on>
             <sys_user display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</sys_user>
-            <view display_value="Create a service request" name="Create_a_service_request">9434c603dbe732009dac5c00cf96197b</view>
+            <view display_value="Create a service request" name="Create_a_service_request">3946f85fdbe7320067b1d190cf961992</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
